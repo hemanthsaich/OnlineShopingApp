@@ -69,9 +69,9 @@
         <div id="visual">
             <div class="slide-visual">
                 <ul class="slide-group">
-                    <li><img class="img-responsive" src="images/img1.jpg" alt="Dummy Image" /></li>
-                    <li><img class="img-responsive" src="images/img1.jpg" alt="Dummy Image" /></li>
-                    <li><img class="img-responsive" src="images/img1.jpg" alt="Dummy Image" /></li>
+                    <li><img class="img-responsive" src="https://wrogn.com/cdn/shop/files/NEW-WEBSITE-FLAT-KNIT-WEBSITE-BANNER.png?v=1724487914&width=1066" alt="Banner 1" /></li>
+                    <li><img class="img-responsive" src="https://wrogn.com/cdn/shop/files/NEW-WEBSITE-T-SHIRT-BANNER.png?v=1724759250&width=1066" alt="Banner 2" /></li>
+                    <li><img class="img-responsive" src="https://wrogn.com/cdn/shop/files/JACKTER.webp?v=1723544879&width=1066" alt="Banner 3" /></li>
                 </ul>
                 <!--<div class="script-wrap">
                     <ul class="script-group">

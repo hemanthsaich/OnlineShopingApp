@@ -23,7 +23,7 @@ import com.revonlineshop.utility.ServiceFactory;
 public class AddProductsDetails extends HttpServlet {
 
     //Path where all the images are stored
-    private final String UPLOAD_DIRECTORY = "C:\\Users\\sivag\\OneDrive\\Documents\\revonlineshop\\revonlineshop\\src\\main\\webapp\\uploads";
+    private final String UPLOAD_DIRECTORY = "D:\\Revature-Notes\\revonlineshop\\revonlineshop\\src\\main\\webapp\\uploads";
 
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
