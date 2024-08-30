@@ -66,7 +66,7 @@ To run this project locally, you need to have the following software installed:
 
 2. **Product Browsing:**
    - Users can browse available products from the homepage.
-   - Products are categorized for easier navigation.
+   - Products are categorized.
    ![image](https://github.com/user-attachments/assets/439f12d6-4d92-41e9-962a-9c844f63b10c)
 
 3. **Shopping Cart:**
