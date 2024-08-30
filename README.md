@@ -37,7 +37,7 @@ To run this project locally, you need to have the following software installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/online-shopping-app.git
+   git clone https://github.com/hemanthsaich/OnlineShopingApp.git
    ```
 
 2. **Set up the database:**
