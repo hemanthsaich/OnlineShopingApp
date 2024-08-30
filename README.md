@@ -62,21 +62,27 @@ To run this project locally, you need to have the following software installed:
 
 1. **User Registration:**
    - New users can register by clicking on the "Sign Up" link and filling out the registration form.
+     ![image](https://github.com/user-attachments/assets/61d0d362-0c13-4d7b-82ff-82d1c2351bd9)
 
 2. **Product Browsing:**
    - Users can browse available products from the homepage.
    - Products are categorized for easier navigation.
+   ![image](https://github.com/user-attachments/assets/439f12d6-4d92-41e9-962a-9c844f63b10c)
 
 3. **Shopping Cart:**
    - Users can add products to their shopping cart.
    - The cart displays all selected items with the total price.
+  ![image](https://github.com/user-attachments/assets/11745b56-5750-4672-aaee-332fcb44af3b)
 
 4. **Checkout:**
    - Users can proceed to checkout from their shopping cart.
    - A secure payment gateway is simulated for completing purchases.
+  ![image](https://github.com/user-attachments/assets/4a63be6f-be8b-496f-8243-78adb03c8b72)
 
 5. **Order History:**
    - Users can view their past orders and track order status.
+  ![image](https://github.com/user-attachments/assets/349595be-7933-4c41-816e-00ddc9af36ce)
 
 6. **Admin Dashboard:**
    - Admin users can manage products, view orders, and update order statuses.
+![image](https://github.com/user-attachments/assets/1cb9101e-9822-4d9a-af87-777b8d5f1d90)
